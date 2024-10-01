@@ -1,6 +1,6 @@
 # Building a Netflix based Knowledge Graph using Cypher Queries
 <p align="center">
-  <img src="https://github.com/akhilchibber/Netflix-Knowledge-Graph/blob/main/CYPHER.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Netflix-Knowledge-Graph/blob/main/NETFLIX.gif?raw=true" alt="earthml Logo">
 </p>
 
 ## Overview
